@@ -11,7 +11,6 @@ public class Quiz01 {
 		c = (char)b;
 		s = (short)c;
 		c = (char)s;
-		f = (float)5.11;
-		System.out.println(s+f);
+		f = (float)5.11; // 5.11f·Î ½áµµ µÊ
 	}
 }
